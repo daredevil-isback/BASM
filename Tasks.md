@@ -1,0 +1,2 @@
+- Start using Quick Capture.
+- https://youtu.be/tOS53fSDqVw
