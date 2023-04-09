@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "125fc980db4caf30",
+    "type": "split",
+    "children": [
+      {
+        "id": "74bf3bc7e5990e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee908f66139dec25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most important inputs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d323cf40d2d9193",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e5572bafdb214ca",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "92a0f8072a49e2a3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "533c8e20397c0015",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2b1f7fc761727a64",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dc44770e5b9809d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "881a0941f03f32da",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Most important inputs.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4b04d95ad84e1bde",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Most important inputs.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e44f2d9a5afedbef",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Most important inputs.md"
+          }
+        }
+      },
+      {
+        "id": "6d2d76b4ec913138",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1700288dff2b7686",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ee908f66139dec25",
+  "lastOpenFiles": [
+    "First 30 days routine.md",
+    "Most important inputs.md"
+  ]
+}
