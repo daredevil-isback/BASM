@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First 30 days routine.md",
+                "file": "Most important inputs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First 30 days routine.md",
+                "file": "Most important inputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First 30 days routine.md",
+                "file": "Most important inputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First 30 days routine.md"
+                "file": "Most important inputs.md"
               }
             }
           },
@@ -166,12 +166,12 @@
   },
   "active": "7bbda3bd9b5ad4a0",
   "lastOpenFiles": [
+    "First 30 days routine.md",
     "BASM",
     "Projects.md",
     "Most important inputs.md",
     "Yo",
     "Read or Watch Later.md",
-    "First 30 days routine.md",
     "Tasks.md",
     "Quick Capture.md",
     "Read/Watch Later.md",
