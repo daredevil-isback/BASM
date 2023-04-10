@@ -11,7 +11,7 @@
 // If you are at your computer and you get an email - don't respond, just write it down.
 // Don't read the article, just write it down.
 // Don't watch that video, write it down.
-// This step shows why it is important to not switch your notes app for 30 days. A lot of us needs to    spend those 30 days just flexing our noticing muscles. What's interesting or exciting to you also can be called `Capture What Resonates` and is single most important skill in taking notes
+// This step shows why it is important to not switch your notes app for 30 days. A lot of us needs to spend those 30 days just flexing our noticing muscles. What's interesting or exciting to you also can be called `Capture What Resonates` and is single most important skill in taking notes.
 
 ## Step three
 ### Reframe your inputs
