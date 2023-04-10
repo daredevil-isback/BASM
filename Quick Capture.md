@@ -4,3 +4,7 @@
 - Passport with Rishi - Conversations 
 - Tutorial WRE - WhatsApp
 - Study Soil Dynamics chap 8 - Convo
+- Negotiation course - RT
+- BTP Meeting with prof - Conversations
+- Writing to be articulated- RT
+- Don't get consumed but you consume social media - RT
