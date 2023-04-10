@@ -8,3 +8,5 @@
 - BTP Meeting with prof - Conversations
 - Writing to be articulated- RT
 - Don't get consumed but you consume social media - RT
+- Badminton tournament- WhatsApp 
+- Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh.
