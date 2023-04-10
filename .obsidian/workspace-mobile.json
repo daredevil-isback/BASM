@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First 30 days routine.md",
+                "file": "Quick Capture.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Tasks",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "First 30 days routine.md",
+            "file": "Quick Capture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "First 30 days routine.md",
+            "file": "Quick Capture.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "First 30 days routine.md"
+            "file": "Quick Capture.md"
           }
         }
       },
@@ -152,6 +152,8 @@
   "active": "ee908f66139dec25",
   "lastOpenFiles": [
     "Most important inputs.md",
-    "First 30 days routine.md"
+    "Tasks.md",
+    "First 30 days routine.md",
+    "Quick Capture.md"
   ]
 }
