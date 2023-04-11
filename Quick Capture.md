@@ -10,3 +10,5 @@
 - Don't get consumed but you consume social media - RT
 - Badminton tournament- WhatsApp 
 - Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh.
+- How easily i waste my...like that i waste my energy. I want to know why and what can i do instead!
+- i have a matrix but willl need atleast a small system to execute it.
