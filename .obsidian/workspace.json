@@ -8,26 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bbda3bd9b5ad4a0",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "2eaa5ea59edd7c11",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Most important inputs.md"
+                "file": "Most important inputs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Most important inputs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Most important inputs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Most important inputs.md"
+              }
             }
           },
           {
@@ -146,6 +142,22 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbbabdfdd705d5c6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c3a1d1abb67b03a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -165,21 +177,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2eaa5ea59edd7c11",
+  "active": "4a80d495cb67ca73",
   "lastOpenFiles": [
+    "Quick Capture.md",
+    "Tasks.md",
+    "Projects.md",
     "Most important inputs.md",
     "First 30 days routine.md",
-    "Projects.md",
     "Areas.md",
     "Archives.md",
     "BASM",
     "Yo",
     "Read or Watch Later.md",
-    "Tasks.md",
-    "Quick Capture.md",
     "Read/Watch Later.md",
     "Resources.md",
     "Read",
