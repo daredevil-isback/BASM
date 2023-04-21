@@ -2,7 +2,7 @@
 - BTP Thesis write ups - Conversations
 - Talk to Mayank, Akshat and Aditya - RT
 - Passport with Rishi - Conversations 
-- Tutorial WRE, Pre-Stress, Earthquake, Soil - WhatsApp
+- Tutorial Pre-Stress, Earthquake, Soil - WhatsApp
 - Study Soil Dynamics chap 8 - Convo
 - Negotiation course - RT
 - BTP Meeting with prof - Conversations
