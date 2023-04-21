@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most important inputs.md",
+                "file": "Quick Capture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most important inputs.md",
+                "file": "Quick Capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Most important inputs.md",
+                "file": "Quick Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Most important inputs.md"
+                "file": "Quick Capture.md"
               }
             }
           },
@@ -181,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a80d495cb67ca73",
+  "active": "2eaa5ea59edd7c11",
   "lastOpenFiles": [
+    "Most important inputs.md",
     "Quick Capture.md",
     "Tasks.md",
     "Projects.md",
-    "Most important inputs.md",
     "First 30 days routine.md",
     "Areas.md",
     "Archives.md",
