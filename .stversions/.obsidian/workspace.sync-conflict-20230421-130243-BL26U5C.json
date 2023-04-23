@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69dede3c9d439b31",
+        "id": "5d1e45b91566638a",
         "type": "tabs",
         "children": [
           {
-            "id": "f28bd7b7e20a4ea5",
+            "id": "2eaa5ea59edd7c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,12 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f28bd7b7e20a4ea5",
+  "active": "2eaa5ea59edd7c11",
   "lastOpenFiles": [
-    "Quick Capture.md",
-    "Quick Capture.sync-conflict-20230421-130241-OLKICNS.md",
-    "~syncthing~Quick Capture.md.tmp",
     "Most important inputs.md",
+    "Quick Capture.md",
     "Tasks.md",
     "Projects.md",
     "First 30 days routine.md",
