@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":1st_place_medal:",
+    ":ascension_island:",
+    ":evergreen_tree:"
+  ]
+}

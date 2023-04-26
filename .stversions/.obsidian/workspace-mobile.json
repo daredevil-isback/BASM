@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "5fd7f89a6bcf9740",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -147,6 +155,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "janitor:Janitor: scan vault": false,
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -158,10 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e5572bafdb214ca",
+  "active": "ee908f66139dec25",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Home.md",
     "Quick Capture.md",
+    "Tasks.md",
     "Most important inputs.md",
     "First 30 days routine.md"
   ]

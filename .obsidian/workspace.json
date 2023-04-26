@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "46b29fa20c6450a9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -170,33 +178,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "81b978bcc072a75d",
+  "active": "f28bd7b7e20a4ea5",
   "lastOpenFiles": [
-    "~syncthing~Quick Capture.md.tmp",
-    "Quick Capture.md",
-    "Quick Capture.sync-conflict-20230421-130241-OLKICNS.md",
-    "Most important inputs.md",
-    "Tasks.md",
-    "Projects.md",
-    "First 30 days routine.md",
+    "Home.md",
+    "~syncthing~Home.md.tmp",
     "Areas.md",
     "Archives.md",
+    "Most important inputs.md",
+    "Projects.md",
+    "Quick Capture.md",
+    "Read or Watch Later.md",
+    "Resources.md",
+    "Tasks.md",
+    "First 30 days routine.md",
+    "~syncthing~Quick Capture.md.tmp",
+    "Quick Capture.sync-conflict-20230421-130241-OLKICNS.md",
     "BASM",
     "Yo",
-    "Read or Watch Later.md",
     "Read/Watch Later.md",
-    "Resources.md",
     "Read",
     "Untitled.canvas",
     "09-04-2023.md"

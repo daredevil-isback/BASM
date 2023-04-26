@@ -9,5 +9,20 @@
   "templater-obsidian",
   "obsidian-git",
   "obsidian-checklist-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "settings-search",
+  "cmdr",
+  "recent-files-obsidian",
+  "url-into-selection",
+  "obsidian-projects",
+  "dbfolder",
+  "obsidian-plugin-update-tracker",
+  "note-refactor-obsidian",
+  "obsidian-plugin-toc",
+  "janitor",
+  "homepage",
+  "obsidian-banners",
+  "obsidian-emoji-toolbar",
+  "emoji-shortcodes",
+  "periodic-notes"
 ]

@@ -8,5 +8,5 @@
 | Mobile games    | Low        | High   |
 | Instagram reels | Low        | High   |
 | Valorant        | Low        | Low    |
-| Youtube Video   | Low-Medium | Medium |
+| Youtube Video   | Low-Medium | Low |
 
