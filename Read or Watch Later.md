@@ -1,0 +1,3 @@
+- youtube videos to see - [Obsidian Plugins](https://www.youtube.com/watch?v=cBm95iCcX2E)[Obsidian AI](https://www.youtube.com/watch?v=tNAsLbGdM6A)
+- Talk to Mayank, Akshat and Aditya 2 Jun 23.
+- Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh.

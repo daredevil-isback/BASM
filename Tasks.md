@@ -1,2 +1,9 @@
 - Start using Quick Capture.
 - https://youtu.be/tOS53fSDqVw
+- Soil tut till 12th may
+- Passport till 15th may
+- 5 subjects to study -- Software, Pre Stress, Soil, Earthquake, Water
+- BTP meet up and presentation
+- Skating - Tell them that they have to take the trials for the upcoming first years, some exercises for junior and posture corrections and how to get there.
+- Sleep at 10 pm and wake up at 5 am
+- Playbook 4 TB space.

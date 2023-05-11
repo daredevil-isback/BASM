@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "Quick Capture",
       "path": "Quick Capture.md"
+    },
+    {
+      "basename": "Read or Watch Later",
+      "path": "Read or Watch Later.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Projects.md"
+    },
+    {
+      "basename": "First 30 days routine",
+      "path": "First 30 days routine.md"
+    },
+    {
+      "basename": "Areas",
+      "path": "Areas.md"
+    },
+    {
+      "basename": "Archives",
+      "path": "Archives.md"
+    },
+    {
+      "basename": "Nukshe",
+      "path": "Nukshe.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Resources.md"
+    },
+    {
+      "basename": "Most important inputs",
+      "path": "Most important inputs.md"
     }
   ],
   "omittedPaths": [],

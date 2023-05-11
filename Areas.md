@@ -1,0 +1,5 @@
+- Finance
+- Coding
+- Fam
+- Friends
+- Communication - Writing, Speaking, Socialising, etc..

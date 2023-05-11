@@ -1,19 +1,1 @@
 // capture what resonates
-- BTP Thesis write ups - Conversations
-- Talk to Mayank, Akshat and Aditya - RT
-- Passport with Rishi - Conversations 
-- Tutorial Pre-Stress, Earthquake, Soil - WhatsApp
-- Study Soil Dynamics chap 8 - Convo
-- Negotiation course - RT
-- BTP Meeting with prof - Conversations
-- Writing to be articulated- RT
-- Don't get consumed but you consume social media - RT
-- Badminton tournament- WhatsApp 
-- Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh.
-- How easily i waste my...like that i waste my energy. I want to know why and what can i do instead!
-- i have a matrix but willl need atleast a small system to execute it.
-- 20 new entry in skating.
-- Insta - @tech_iela
-- youtube videos to see - [Obsidian Plugins](https://www.youtube.com/watch?v=cBm95iCcX2E)[Obsidian AI](https://www.youtube.com/watch?v=tNAsLbGdM6A)
-- see about playbook which gives 4 tb space.
-- Nimbu ka rass + thoda Gurr - balo mei lagalo - dandruff free.

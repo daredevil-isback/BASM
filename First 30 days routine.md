@@ -6,7 +6,7 @@
 
 ## Step two
 ### Quick capture what resonates
-// When new source of information enters your life... you have a conversation with your "" or you got an important email. That little piece of information has a suggestion for you. And the default suggestion is that `This is important Do This Now(Drop everything)` instead of imediately accepting the default frame of that incoming information you have a new option. You have a notes app. When you encounter that information open your phone or computer 
+// When new source of information enters your life... you have a conversation with your "" or you got an important email. That little piece of information has a suggestion for you. And the default suggestion is that `This is important, Do This Now(Drop everything)` instead of imediately accepting the default frame of that incoming information you have a new option. You have a notes app. When you encounter that information open your phone or computer 
 `Write it down don't respond imediately; just write it down on this 'Quick Capture' 
 // If you are at your computer and you get an email - don't respond, just write it down.
 // Don't read the article, just write it down.
