@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee908f66139dec25",
+            "id": "534ce97a8d52cefe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Capture.md",
+                "file": "Archives.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,38 +29,17 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8e5572bafdb214ca",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
         "id": "92a0f8072a49e2a3",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Tasks",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
-        "id": "533c8e20397c0015",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
           }
         }
       },
@@ -73,10 +52,39 @@
         }
       },
       {
-        "id": "5fd7f89a6bcf9740",
+        "id": "d6f3fc24d81d17cf",
         "type": "leaf",
         "state": {
           "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "433d32ffca550af1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7e424f796065d9ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1ba2b3ae3236cc5d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -88,41 +96,14 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "881a0941f03f32da",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Quick Capture.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
         "id": "4b04d95ad84e1bde",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quick Capture.md",
+            "file": "Archives.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "e44f2d9a5afedbef",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Quick Capture.md"
           }
         }
       },
@@ -135,48 +116,80 @@
         }
       },
       {
-        "id": "1700288dff2b7686",
-        "type": "leaf",
-        "state": {
-          "type": "FANTASY_CALENDAR",
-          "state": {}
-        }
-      },
-      {
         "id": "b5032086a053b3e4",
         "type": "leaf",
         "state": {
           "type": "todo",
           "state": {}
         }
+      },
+      {
+        "id": "7cd7e60530af31aa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Archives.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4d67b4c8e391757d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Archives.md"
+          }
+        }
+      },
+      {
+        "id": "b5e61f50525bc0e5",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-projects:Open projects": false,
+      "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "janitor:Janitor: scan vault": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "templater-obsidian:Templater": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "ee908f66139dec25",
+  "active": "92a0f8072a49e2a3",
   "lastOpenFiles": [
-    "Home.md",
-    "Quick Capture.md",
+    "Areas.md",
     "Tasks.md",
-    "Most important inputs.md",
-    "First 30 days routine.md"
+    "Archives.md",
+    "Introductory Lec. Unit 1.pdf.PDF",
+    "Projects.md",
+    "Read or Watch Later.md",
+    "First 30 days routine.md",
+    "Quick Capture.md",
+    "Home.md",
+    "Most important inputs.md"
   ]
 }

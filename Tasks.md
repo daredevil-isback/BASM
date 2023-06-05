@@ -6,4 +6,6 @@
 - BTP meet up and presentation
 - Skating - Tell them that they have to take the trials for the upcoming first years, some exercises for junior and posture corrections and how to get there.
 - Sleep at 10 pm and wake up at 5 am
-- Playbook 4 TB space.
+- Playbook 100 GB space.
+- Design your system for Bangaluru.
+- Design House for Patna include electronics also.

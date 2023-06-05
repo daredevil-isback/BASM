@@ -1,3 +1,4 @@
 - youtube videos to see - [Obsidian Plugins](https://www.youtube.com/watch?v=cBm95iCcX2E)[Obsidian AI](https://www.youtube.com/watch?v=tNAsLbGdM6A)
 - Talk to Mayank, Akshat and Aditya 2 Jun 23.
-- Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh.
+- Talk to choti mausi, chote mama, bare mama and bari mausi, chotka(Ayansh), chotki(Kristi / Anshika) aur Arsh.
+- Explore Youtoob music --- can play familiar music of the current playing. can customize according to multiple selected artist and can futher categorize to your need such as for workout, popular, etc..

@@ -11,9 +11,11 @@
 - Badminton tournament- WhatsApp **
 - Talk to choti mausi, chote mama, bare mama and bari mausi, chotka chotki aur arsh. **
 - How easily i waste my...like that i waste my energy. I want to know why and what can i do instead! **
-- i have a matrix but willl need atleast a small system to execute it. **
+- i have a matrix but will need at least a small system to execute it. **
 - 20 new entry in skating. **
 - Insta - @tech_iela **
 - youtube videos to see - [Obsidian Plugins](https://www.youtube.com/watch?v=cBm95iCcX2E)[Obsidian AI](https://www.youtube.com/watch?v=tNAsLbGdM6A) **
 - see about playbook which gives 4 tb space. **
 - Nimbu ka rass + thoda Gurr - balo mei lagalo - dandruff free. **
+## 03 Jun 23
+- 2400 rupees of treasure hunt has came - to be divided into 4 equal parts - Hitkarsh, Ritik, Shridhar and myself Ankur.

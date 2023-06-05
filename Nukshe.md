@@ -1,1 +1,7 @@
 - Nimbu ka rass + thoda Gurr - balo mei lagalo - dandruff free.
+- 4 situation where you can lie -
+	- To please angry wife
+	- In a business
+	- To save somebody life
+	- Jokingly
+- 

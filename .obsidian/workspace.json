@@ -11,8 +11,22 @@
             "id": "55ee22f49a5065da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a30aacb5a34c2f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
             }
           }
         ]
@@ -68,6 +82,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "dd33c80f486da6d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks.md"
+              }
             }
           },
           {
@@ -171,7 +197,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "janitor:Janitor: scan vault": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
@@ -181,21 +206,23 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "55ee22f49a5065da",
   "lastOpenFiles": [
+    "Areas.md",
     "Tasks.md",
+    "Archives.md",
     "Quick Capture.md",
+    "Nukshe.md",
+    "Resources.md",
+    "Introductory Lec. Unit 1.pdf.PDF",
     "Read or Watch Later.md",
     "Projects.md",
     "First 30 days routine.md",
-    "Areas.md",
-    "Archives.md",
-    "Nukshe.md",
-    "Resources.md",
     "Most important inputs.md",
     "Home.md",
     "~syncthing~Home.md.tmp",

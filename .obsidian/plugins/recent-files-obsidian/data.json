@@ -5,22 +5,6 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "Quick Capture",
-      "path": "Quick Capture.md"
-    },
-    {
-      "basename": "Read or Watch Later",
-      "path": "Read or Watch Later.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Projects.md"
-    },
-    {
-      "basename": "First 30 days routine",
-      "path": "First 30 days routine.md"
-    },
-    {
       "basename": "Areas",
       "path": "Areas.md"
     },
@@ -29,12 +13,32 @@
       "path": "Archives.md"
     },
     {
+      "basename": "Quick Capture",
+      "path": "Quick Capture.md"
+    },
+    {
       "basename": "Nukshe",
       "path": "Nukshe.md"
     },
     {
       "basename": "Resources",
       "path": "Resources.md"
+    },
+    {
+      "basename": "Introductory Lec. Unit 1.pdf",
+      "path": "Introductory Lec. Unit 1.pdf.PDF"
+    },
+    {
+      "basename": "Projects",
+      "path": "Projects.md"
+    },
+    {
+      "basename": "Read or Watch Later",
+      "path": "Read or Watch Later.md"
+    },
+    {
+      "basename": "First 30 days routine",
+      "path": "First 30 days routine.md"
     },
     {
       "basename": "Most important inputs",
